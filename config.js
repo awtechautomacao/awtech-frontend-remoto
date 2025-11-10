@@ -1,2 +1,2 @@
-
-const API_BASE = "https://awtech-remoto-backend.onrender.com";
+// config.js
+const API_URL = "https://awtech-remoto-backend.onrender.com";
